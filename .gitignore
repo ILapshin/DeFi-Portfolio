@@ -2,4 +2,4 @@ __pycache__
 .hypothesis
 .env
 *.json
-*.pwy
+*.pyw
