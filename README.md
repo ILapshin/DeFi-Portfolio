@@ -2,7 +2,7 @@
 
 A telegram bot that allow you monitor your your crypto portfolio hodled on different wallets.
 
-    t.me/DeFiPortfolioBot
+https://t.me/DeFiPortfolioBot
 
 You can pass your wallet addresses that will be detected automatically for a certain chain.
 
