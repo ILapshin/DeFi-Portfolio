@@ -1,5 +1,7 @@
 __pycache__
+logs
 .hypothesis
 .env
 *.json
 *.pwy
+TODO.txt

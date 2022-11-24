@@ -16,6 +16,10 @@ ADDRESS_EXISTS = 'Address already added'
 ADDRESS_INVALID = 'Invalid address. Please check and try again.'
 ADDRESS_DELETED = 'Address {address} deleted'
 USER_NOT_FOUND = 'User not found'
+COULD_NOT_GET_PRICE = 'Could not get asset price'
+COULD_NOT_GET_AMOUNT = 'Could not get asset amount'
+COULD_NOT_GET_DATA = 'Could not get data'
+SOMETHING_WENT_WRONG = 'Something went wrong'
 
 #messages
 ADDED_ADDRESSES = 'Added addresses:'
@@ -45,3 +49,6 @@ SHOW_ADDRESSES = 'Show addresses'
 DEFI_PORTFOLIO = 'DeFi Portfolio'
 
 # endregion
+
+ERROR = 'ERROR'
+OK = 'OK'
