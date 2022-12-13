@@ -1,6 +1,6 @@
 # DeFi Portfolio Telegram Bot
 
-A telegram bot that allow you to monitor your crypto portfolio hodled on different wallets.
+A telegram bot that allow you to monitor your crypto portfolio hodled on different wallets. Currently deployed on Flux network and running on folowing telegram bot:
 
 https://t.me/DiffsAlarmBot
 
